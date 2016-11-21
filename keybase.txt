@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/tomupom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tomhackshaw.com
+  * I am tomupom (https://keybase.io/tomupom) on keybase.
+  * I have a public key with fingerprint 1D4C 837D 6303 B1D8 F7DC  982F D4EB 44C7 FBC7 7DB1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e1a0d4fc7bdffb5b5726548d20e389a3c6dce17b279988203c67e0862d59cfa30a",
+            "fingerprint": "1d4c837d6303b1d8f7dc982fd4eb44c7fbc77db1",
+            "host": "keybase.io",
+            "key_id": "d4eb44c7fbc77db1",
+            "kid": "0101e1a0d4fc7bdffb5b5726548d20e389a3c6dce17b279988203c67e0862d59cfa30a",
+            "uid": "c01a4402507061b90f4e37c2a963a219",
+            "username": "tomupom"
+        },
+        "service": {
+            "hostname": "tomhackshaw.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479691366,
+    "expire_in": 157680000,
+    "prev": "96c615b73f6fff6847a13f716d373293f823889b7bbac8ad78b9206b7bc8b7fb",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMNEAnicrZJ/TFVlGMfvFaRgQTgpawTNo0HEHZxf9/y4/WTiNIFKWiiSu533nPdc
+Dsg5l3MPIAIKk0EtdhmzEkvYwBgEIyTAyJbcSyCbrEQghyVMEShyFWCgIkrnsFr/
+9GfvP++e5/18v+/zPHv6An1MAebRm/ED9waK2s2D3uoc0148USxAgCLkI7YCJBOu
+XfCAAF2aPVMSEBuCYigGMQ4VSJGngSCKwAqsNE5ZSUbAUUgwLEfwlMBDjAY4zbIM
+g6N6goYoQ+GCleVFjkA5xIKIkuyAqlOVZE23xQSSZwhaoAiUAJjAiLTAswwuCiQE
+JMnTIuBpWgCYLkxXXIZCLw5wLhgjKXpOD+xr5f0H/z/XnbNmx6MYR5IobkVplMIA
+i4okJGge51iK4HCMNUAXVGUuC+q0pmTlOJUspMiC6MlciYfGXI1G/gXSOT7Tlc7l
+xfA6aEGcqqIpvHJAf0zXNKfN0Gr5TgPOg8D+t40dSLKgD1IX5ELVJSkyYsN0ktck
+wxcjaZZiMYKiLAg86JRUaJcMwkpTDKof4xuYq1uyFE9hVkATIiWKIsWQNIcRIo1R
+AkETOEuIDE4wDAtoADie4QSaASyOUnrMM0AfNmI0li0riI3Qy+QcuqVLcsiclqNC
+pKjX+7avyRxg8lu/zlgwU4B/8D9r92ZlsOnUTxZ720KnnDvUbq+YTXvdfrhlSX1H
+Zu7T+c9893sq13FZm4xJ8RmZeeNc72xSY8JI3PnE1Z9bPrOdHvdZ2Xkh2tZzOCAq
+Km18qdTHHd3yWNPZqYikXY3D992qN5L8iqzuyXqo1DNU/NG9uZr2rrkdv3aVJrQ3
+v1WzmOLZnHH1iG8bf/GpgA2t186GjNWMlxVPp4GpIMfo8qM7aHJ5pLCkJKKeDVQn
+Xo1didoa80J27UTYYvKLu8/80TB5Z7D3uY3K0/Hmu2bHZPcr7f2LgY/A5U0TX77X
+2Xo93GeztynT/af1+NztisSbntszqVcqfeu2scS+4e3ZoYWRn6xk7InbOtBX3liS
+cqLA/9nucqyj/sGW88XVPVfCI3Z53XsLsvcp3X7dPXklH5TGHYqqOrUQk1LxRNr+
+zI+n7wYdcS2970k6lLE9zNWhxpfNP7llGg1CQ8f6tN01n36+4cK1uKpzUXy/WPYj
+nK6Idr58JnQoIXZ0z2vxtxbuNJdPhJRuU5IVzyXxYv5xkLSuv7/z3U2nWx0LOx+f
+X7389YOZ9Pn1TLX2RXhSbUfI96TXXjgV+9IJz+B+357h4IjnN/5yMrnKUiUvjHbX
+NQ88TPxwsgWpvNXfMObvnvUrDj3maSy70Zt3XRmo/bDrNxcwM2FNDfCSO/IGuFov
+H/3m24MhTFHdoO/R1VTrsTb7XwuEz1s=
+=CXBP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomupom
+
+==================================================================
